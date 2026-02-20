@@ -1,0 +1,23 @@
+C:\Users\user-pc\OneDrive\Desktop\BELGIUM\2nd Year\PRG281\Project\Milestone 2\Fitness Planner\Fitness Planner\bin\Debug\Fitness Planner.exe.config
+C:\Users\user-pc\OneDrive\Desktop\BELGIUM\2nd Year\PRG281\Project\Milestone 2\Fitness Planner\Fitness Planner\bin\Debug\Fitness Planner.exe
+C:\Users\user-pc\OneDrive\Desktop\BELGIUM\2nd Year\PRG281\Project\Milestone 2\Fitness Planner\Fitness Planner\bin\Debug\Fitness Planner.pdb
+C:\Users\user-pc\OneDrive\Desktop\BELGIUM\2nd Year\PRG281\Project\Milestone 2\Fitness Planner\Fitness Planner\obj\Debug\Fitness Planner.csproj.AssemblyReference.cache
+C:\Users\user-pc\OneDrive\Desktop\BELGIUM\2nd Year\PRG281\Project\Milestone 2\Fitness Planner\Fitness Planner\obj\Debug\Fitness Planner.csproj.CoreCompileInputs.cache
+C:\Users\user-pc\OneDrive\Desktop\BELGIUM\2nd Year\PRG281\Project\Milestone 2\Fitness Planner\Fitness Planner\obj\Debug\Fitness Planner.exe
+C:\Users\user-pc\OneDrive\Desktop\BELGIUM\2nd Year\PRG281\Project\Milestone 2\Fitness Planner\Fitness Planner\obj\Debug\Fitness Planner.pdb
+C:\Users\user-pc\OneDrive\Desktop\BELGIUM\2nd Year\PRG281\Project\Milestone 2\Fitness Planner\Fitness Planner\obj\Debug\Fitness Planner.exe.config
+C:\Users\T.Maise\OneDrive\Documentos\GitHub\PRG281_Project\Fitness Planner\Fitness Planner\bin\Debug\Fitness Planner.exe.config
+C:\Users\T.Maise\OneDrive\Documentos\GitHub\PRG281_Project\Fitness Planner\Fitness Planner\bin\Debug\Fitness Planner.exe
+C:\Users\T.Maise\OneDrive\Documentos\GitHub\PRG281_Project\Fitness Planner\Fitness Planner\bin\Debug\Fitness Planner.pdb
+C:\Users\T.Maise\OneDrive\Documentos\GitHub\PRG281_Project\Fitness Planner\Fitness Planner\obj\Debug\Fitness Planner.csproj.AssemblyReference.cache
+C:\Users\T.Maise\OneDrive\Documentos\GitHub\PRG281_Project\Fitness Planner\Fitness Planner\obj\Debug\Fitness Planner.csproj.CoreCompileInputs.cache
+C:\Users\T.Maise\OneDrive\Documentos\GitHub\PRG281_Project\Fitness Planner\Fitness Planner\obj\Debug\Fitness Planner.exe
+C:\Users\T.Maise\OneDrive\Documentos\GitHub\PRG281_Project\Fitness Planner\Fitness Planner\obj\Debug\Fitness Planner.pdb
+C:\Users\user-pc\OneDrive\Desktop\BELGIUM\2nd Year\PRG281\Testing\PRG281_Project\Fitness Planner\Fitness Planner\bin\Debug\Fitness Planner.exe.config
+C:\Users\user-pc\OneDrive\Desktop\BELGIUM\2nd Year\PRG281\Testing\PRG281_Project\Fitness Planner\Fitness Planner\bin\Debug\Fitness Planner.exe
+C:\Users\user-pc\OneDrive\Desktop\BELGIUM\2nd Year\PRG281\Testing\PRG281_Project\Fitness Planner\Fitness Planner\bin\Debug\Fitness Planner.pdb
+C:\Users\user-pc\OneDrive\Desktop\BELGIUM\2nd Year\PRG281\Testing\PRG281_Project\Fitness Planner\Fitness Planner\obj\Debug\Fitness Planner.csproj.AssemblyReference.cache
+C:\Users\user-pc\OneDrive\Desktop\BELGIUM\2nd Year\PRG281\Testing\PRG281_Project\Fitness Planner\Fitness Planner\obj\Debug\Fitness Planner.csproj.CoreCompileInputs.cache
+C:\Users\user-pc\OneDrive\Desktop\BELGIUM\2nd Year\PRG281\Testing\PRG281_Project\Fitness Planner\Fitness Planner\obj\Debug\Fitness Planner.exe
+C:\Users\user-pc\OneDrive\Desktop\BELGIUM\2nd Year\PRG281\Testing\PRG281_Project\Fitness Planner\Fitness Planner\obj\Debug\Fitness Planner.pdb
+C:\Users\user-pc\OneDrive\Desktop\BELGIUM\2nd Year\PRG281\Testing\PRG281_Project\Fitness Planner\Fitness Planner\obj\Debug\Fitness Planner.exe.config

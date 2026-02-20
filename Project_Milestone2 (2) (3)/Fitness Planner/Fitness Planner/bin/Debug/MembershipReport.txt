@@ -1,0 +1,30 @@
+=== MEMBERSHIP REPORT ===
+Generated on: 2025/08/19 19:43:20
+------------------------------------------------------------------------------------
+Name       : Jessica 
+ID         : 0
+Staff      : 10
+Package    : admin
+Age        : 0
+Join Date  : 2025/08/19
+Last Paid  : 2025/08/19
+Reminder   : 2025/08/19
+------------------------------------------------------------------------------------
+Name       : Angel Bright
+ID         : 12
+Staff      : admin
+Package    : Gold
+Age        : 22
+Join Date  : 2025/08/19
+Last Paid  : 2025/08/19
+Reminder   : No reminder sent
+------------------------------------------------------------------------------------
+Name       : tinyiks pineapples
+ID         : 1
+Staff      : admin
+Package    : Gold
+Age        : 22
+Join Date  : 2025/08/19
+Last Paid  : 0001/01/01
+Reminder   : No reminder sent
+------------------------------------------------------------------------------------
